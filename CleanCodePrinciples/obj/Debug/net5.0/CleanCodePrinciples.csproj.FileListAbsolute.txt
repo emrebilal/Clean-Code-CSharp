@@ -1,0 +1,16 @@
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\CleanCodePrinciples.exe
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\CleanCodePrinciples.deps.json
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\CleanCodePrinciples.runtimeconfig.json
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\CleanCodePrinciples.runtimeconfig.dev.json
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\CleanCodePrinciples.dll
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\ref\CleanCodePrinciples.dll
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\bin\Debug\net5.0\CleanCodePrinciples.pdb
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.csprojAssemblyReference.cache
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.AssemblyInfoInputs.cache
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.AssemblyInfo.cs
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.dll
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\ref\CleanCodePrinciples.dll
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.pdb
+C:\Users\Emre\Documents\VSCode Works\CSharp\CleanCodePrinciples\obj\Debug\net5.0\CleanCodePrinciples.genruntimeconfig.cache
